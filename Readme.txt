@@ -3,6 +3,6 @@
 
 animate, animated, avail, adverse, aisle, absurd, atract, belly, abnormal, accountancy, accounting, accent, accession
 
-abundence, abundent,
+abundence, abundent, amend, 
 
 2.phonetic symble;
