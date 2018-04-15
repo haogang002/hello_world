@@ -6,7 +6,7 @@ animate, animated, avail, adverse, aisle, absurd, atract, belly, abnormal, accou
 abundence, abundent, amend, 
 
 associated, fetch,
----
----
----
+---ooooo
+---ooooo
+---ooooo
 2.phonetic symble;
